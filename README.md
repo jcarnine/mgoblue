@@ -34,3 +34,40 @@ $$
 
 ![](/Users/jcarnine/Downloads/Big House.jpg)
 
+
+
+### Lists
+
+------
+
+#### Ordered List
+
+1. Create repository
+2. Add content
+3. Clone repository
+4. Create branch
+5. Edit
+6. Commit
+7. Push
+
+------
+
+#### Unordered List
+
+- Red
+- Orange
+  - Yellow
+    - Green
+- Blue
+- Purple
+
+------
+
+#### Task List
+
+- [ ] Take out garbage
+- [x] Pick up dry cleaning
+- [ ] Put away dishes
+
+------
+
