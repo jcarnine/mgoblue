@@ -34,7 +34,7 @@ $$
 
 ![](/Users/jcarnine/Downloads/Big House.jpg)
 
-![https://github.com/jcarnine/mgoblue/blob/test-branch/Big%20House.jpg]()
+![Big_House](https://github.com/jcarnine/mgoblue/blob/test-branch/Big_House.jpg)
 
 Can I link to an online pic instead?
 
@@ -44,7 +44,7 @@ Can I link to an online pic instead?
 
 ### Lists
 
-------
+---
 
 #### Ordered List
 
