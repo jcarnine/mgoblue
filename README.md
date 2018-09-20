@@ -14,7 +14,7 @@ This is a test....This is only a test...
 
 **Table 1.  2018 Football Schedule*
 
-What if I want to center this text?
+What if I want to center this text?...Joes says it's just a simple tool and text is only left-justified....
 
 ------
 
@@ -31,8 +31,6 @@ $$
 
 
 #### Pictures
-
-![](/Users/jcarnine/Downloads/Big House.jpg)
 
 ![Big_House](https://github.com/jcarnine/mgoblue/blob/test-branch/Big_House.jpg)
 
