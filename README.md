@@ -34,7 +34,7 @@ $$
 
 ![](/Users/jcarnine/Downloads/Big House.jpg)
 
-
+![https://github.com/jcarnine/mgoblue/blob/test-branch/Big%20House.jpg]()
 
 Can I link to an online pic instead?
 
