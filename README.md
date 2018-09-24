@@ -1,3 +1,5 @@
+
+
 # mgoblue
 
 ## Text
@@ -14,6 +16,8 @@ This is a test....This is only a test...
 
 **Table 1.  2018 Football Schedule*
 
+[Full schedule](https://mgoblue.com/schedule.aspx?schedule=471)
+
 What if I want to center this text?...Joes says it's just a simple tool and text is only left-justified....
 
 ------
@@ -29,16 +33,13 @@ $$
 x^2+3x-37=43
 $$
 
+Conclusion:  Inline math doesn't appear the same once committed as it does when viewing it in Typora?  Why?  Do we care?  (Probably won't ever use it...)
 
 #### Pictures
 
-![Big_House](https://github.com/jcarnine/mgoblue/blob/test-branch/Big_House.jpg)
+![Big_House](Big_House.jpg)
 
-Can I link to an online pic instead?
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Michigan_Stadium_2011.jpg/1024px-Michigan_Stadium_2011.jpg]()
-
-![https://cdn.pixabay.com/photo/2017/12/06/20/23/glasses-3002608_960_720.jpg]()
 
 ### Lists
 
