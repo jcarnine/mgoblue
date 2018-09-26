@@ -10,6 +10,7 @@
 This is a test....This is only a test...
 ### Table
 
+<<<<<<< HEAD
 | Date    | Opponent         | Result       |
 | ------- | :--------------- | ------------ |
 | 9/1/18  | **@Notre Dame**  | **L, 17-24** |
@@ -17,6 +18,15 @@ This is a test....This is only a test...
 | 9/15/18 | SMU              | W, 45-20     |
 | 9/22/18 | Nebraska         |              |
 | 9/29/18 | @Northwestern    |              |
+=======
+| Date    | Opponent         | Result   |
+| ------- | :--------------- | -------- |
+| 9/1/18  | @Notre Dame      | L, 17-24 |
+| 9/8/18  | Western Michigan | W, 49-3  |
+| 9/15/18 | SMU              | W, 45-20 |
+| 9/22/18 | Nebraska         | W, 56-10 |
+| 9/29/18 | @Northwestern    |          |
+>>>>>>> origin/test_branch
 
 **Table 1.  2018 Football Schedule*
 
