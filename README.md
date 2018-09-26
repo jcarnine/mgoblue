@@ -40,4 +40,3 @@ $$
 
 
 
-![9.6.14 Scoreboard370](C:\Users\sduar\OneDrive\Desktop\9.6.14 Scoreboard370.jpg)
